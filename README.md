@@ -1,8 +1,7 @@
 # Financial Forecasting: Baseline vs LSTM model for stock prediction
 
 ## Overview
-Predict tomorrow’s stock price movement (up or down) using past 30 days of data.  
-Compare baseline models (Logistic Regression, Random Forest) with an advanced LSTM.
+Predict next-day stock price movement (up/down) and compare classical ML with deep learning.
 
 ## Dataset
 - Source: Kaggle financial market dataset  
