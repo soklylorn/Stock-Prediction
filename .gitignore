@@ -18,3 +18,7 @@ venv/
 # Large or generated files
 3. Results/
 1. Data Source/
+
+# Photo directories
+Pictures/
+
