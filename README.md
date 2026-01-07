@@ -23,13 +23,17 @@ This is framed as a **binary classification problem**:
 ---
 
 ## Project Structure
+```text
 project/
 ├── data/
 │   └── financial_forecasting_dataset.csv
 ├── notebooks/
 │   └── stock_prediction.ipynb
 ├── results/
-└── README.md
+│   └── [your output files here]
+├── README.md
+├── .gitignore
+```
 
 
 
